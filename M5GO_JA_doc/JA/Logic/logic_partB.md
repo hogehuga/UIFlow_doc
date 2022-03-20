@@ -14,7 +14,7 @@ __________________________
 左右の論理関係式が __どちらか片方でも成立__ した場合、結果がTrueになります。それ以外はFalseになります。
 
 >* __not__
-血kを即notTrue=False，notFalse=True
+式の論理結果を反転します。つまり、notTrueはFalse、notFalseはTrueになります。
 
 #### 使用方法
 
